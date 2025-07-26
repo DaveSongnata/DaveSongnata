@@ -40,30 +40,13 @@
 
 ## 🎯 Projetos em destaque
 
-
-<div align="center">
-
-## **Sistema de Agendamento** - [Acessar](https://calendario.treent.com.br)
-
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-  <img src="https://github.com/DaveSongnata/calendar-raw/blob/main/public/2025-07-26%2002-55-01.gif" alt="Calendar Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);" />
-</div>
-
-<div style="margin: 20px 0;">
-  <a href="https://github.com/DaveSongnata/calendar-raw" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
-  </a>
-  <a href="https://calendario.treent.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Agora-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Agora" />
-  </a>
-</div>
-
-**Tecnologias:** React • TypeScript • Node.js • PostgreSQL • Docker
+| **Sistema de Calendário** - [Acessar](https://calendario.treent.com.br) | **CNPJEXTENSION** - [Acessar](https://github.com/DaveSongnata/CNPJEXTENSION/) |
+| --- | --- |
+| <div align="center"><img src="https://github.com/DaveSongnata/calendar-raw/blob/main/public/2025-07-26%2002-55-01.gif" alt="Calendar Demo" width="100%" /></div> | <div align="center"><img src="https://raw.githubusercontent.com/DaveSongnata/CNPJEXTENSION/a2664574e7d39bbaed4eb1fb9763ed212b4159dc/public/2025-07-26%2003-51-33.gif" alt="CNPJ Extension Demo" width="100%" /></div> |
+| <div align="center"><a href="https://github.com/DaveSongnata/calendar-raw" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a> <a href="https://calendario.treent.com.br" target="_blank"><img src="https://img.shields.io/badge/Ver%20Agora-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Agora" /></a></div> | <div align="center"><a href="https://github.com/DaveSongnata/CNPJEXTENSION/" target="_blank"><img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" /></a></div> |
+| **Tecnologias:** React • TypeScript • Node.js • PostgreSQL • Docker<br><br>**Descrição:** Sistema web em PHP de calendário para grupo de estudos, útil para estudos faculdades e organização de horários acadêmicos. | **Tecnologias:** JavaScript • HTML/CSS • BrasilAPI • Chrome Extension<br><br>**Descrição:** Extensão de navegador que consulta dados de CNPJ diretamente da BrasilAPI, eliminando CAPTCHAs e reduzindo o tempo de consulta em ~50%. Permite copiar informações com um clique. |
 
 ---
-
-
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=Pronto+para+construir+algo+Incr%C3%ADvel?+Entre%20em%20contato!%F0%9F%9A%80" alt="Typing SVG" />
