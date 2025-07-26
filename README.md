@@ -40,10 +40,28 @@
 
 ## 🎯 Projetos em destaque
 
+
 <div align="center">
 
-### 🚧 **Em construção...**
-*Projetos incríveis vêm por aí!*
+## **Sistema de Agendamento** - [calendar.treent.com.br](https://calendar.treent.com.br)
+
+<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
+  <img src="https://github.com/DaveSongnata/calendar-raw/blob/main/public/2025-07-26%2002-55-01.gif" alt="Calendar Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);" />
+</div>
+
+<div style="margin: 20px 0;">
+  <a href="https://github.com/DaveSongnata/calendar-raw" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+  </a>
+  <a href="https://calendario.treent.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20Agora-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Agora" />
+  </a>
+</div>
+
+**Tecnologias:** React • TypeScript • Node.js • PostgreSQL • Docker
+
+---
+
 
 </div>
 
