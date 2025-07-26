@@ -43,7 +43,7 @@
 
 <div align="center">
 
-## **Sistema de Agendamento** - [calendar.treent.com.br](https://calendar.treent.com.br)
+## **Sistema de Agendamento** - [calendario.treent.com.br](https://calendar.treent.com.br)
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
   <img src="https://github.com/DaveSongnata/calendar-raw/blob/main/public/2025-07-26%2002-55-01.gif" alt="Calendar Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.3);" />
