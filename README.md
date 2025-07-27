@@ -8,6 +8,7 @@
 </div>
 
 ---
+Idiomas: Inglês, Português
 
 ## 🚀 Sobre mim
 
